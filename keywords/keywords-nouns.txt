@@ -1,0 +1,226 @@
+ability
+accord
+act
+adaptation
+adaptive capacity
+adjustment
+adoption
+advice
+agreement
+agriculture
+allocation
+analysis
+animal
+air
+alliance
+authority
+amendment
+assessment
+association
+atmosphere
+biodiversity
+biomass
+biofuel
+building
+business
+carbon
+carbon dioxide
+carbon market
+capacity
+CFC
+CH4
+chair
+chairman
+chairperson
+change
+chlorofluorocarbon
+Clean Development Mechanism
+climate
+climate change
+CO2
+coalition
+commission
+committee
+commitment
+communication
+community
+conference
+consensus
+consultation
+convention
+cooperation
+corporation
+cost
+country
+cut
+deal
+decision
+decision-making
+declaration
+deforestation
+desertification
+delegate
+deliberation
+development
+dialogue
+directive
+disaster
+discussion
+draft
+DRRM
+earth
+economy
+ecosystem
+effect
+electricity
+emission
+Emissions Trading
+energy
+entity
+equipment
+expert
+exploitation
+facility
+factory
+food
+food insecurity
+forest
+forestry
+fuel
+fossil fuel
+flood
+framework
+fund
+funding
+gas
+generation
+GHG
+global warming
+government
+grant
+group
+hazard
+HFC
+human
+human being
+hydrofluorocarbon
+impact
+implementation
+individual
+industry
+initiative
+integration
+intervention
+investment
+Joint Implementation
+Kyoto Protocol
+land
+law
+legislation
+livelihood
+nature
+mandate
+market
+material
+management
+measure
+mechanism
+meeting
+melting
+member
+membership
+methane
+method
+methodology
+mitigation
+modification
+Montreal Protocol
+mountain
+nation
+negotiation
+nitrous oxide
+N2O
+NGO
+ocean
+oil
+organization
+ozone
+panel
+participation
+partnership
+party
+perfluorocarbon
+petroleum
+PFC
+plan
+plant
+planning
+policy
+preparation
+president
+price
+priority
+procedure
+process
+program
+project
+proposal
+protocol
+provision
+rain
+rainforest
+ratification
+recommendation
+reduction
+reforestation
+regulation
+region
+report
+research
+reservation
+reservoir
+resolution
+restriction
+risk
+resource
+road map
+science
+sea
+sea level
+session
+SF6
+species
+society
+standard
+strategy
+sulfur hexafluoride
+summit
+support
+susceptibility
+system
+talk
+tariff
+technology
+temperature
+training
+transparency
+transport
+transportation
+treaty
+tree
+UN
+UNFCCC
+United Nations
+variability
+vegetation
+volunteer
+vote
+vulnerability
+waste
+weather
+WCC
+WHO
+WMO
+World Climate Conference
+World Health Organization
+World Meteorological Organization 
